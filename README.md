@@ -1,7 +1,9 @@
 # Computational and Cognitive Musicology Lab
 
-In the [Computational and Cognitive Musicology Lab](https://ccml.gtcmt.gatech.edu), we aim to answer questions about musical structure and organization and how people respond to those structures.
-We look for new ways to build, organize, distribute, and analyze musical data, while aiming to build user-friendly technologies to assist scholars, educators, and music lovers.
+In the [Computational and Cognitive Musicology Lab](https://ccml.gtcmt.gatech.edu), we aim to answer questions about musical structure and organization and how people learn, remember, predict, and react emotionally or aesthetically to those structures.
+
+We look for new ways to build, organize, distribute, and analyze musical data, and build build [user-friendly software](https://computational-cognitive-musicology-lab.github.io/humdrumR/) and technologies for symbolic musical data.
+
 Our research is rooted in the fields of *music cognition* and *computational musicology*, but intersects with *music information retrieval*, *music generation*, *music theory*, and many other applications of music technology.
 
 The CCMLab consists primarily of faculty and students in the Georgia Tech <a href="https://music.gatech.edu">School of Music</a>, and is co-run by Claire Arthur and Nat Condit-Schultz.
